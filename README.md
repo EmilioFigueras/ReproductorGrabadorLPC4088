@@ -1,0 +1,1 @@
+# ReproductorGrabadorLPC4088. Reproduce y graba sonidos, los almacena en una tarjeta SD. Utiliza un microcontrolador LPC4088, un micrófono y unos auriculares, también una pantalla LCD. Está realizado con el programa Keil uVision
